@@ -1,0 +1,17 @@
+{
+  "name": "containers-js",
+  "version": "0.0.0",
+  "description": "Set of compliment abstract data types",
+  "author": "Maksim Kalenich <me@maxja.dev>",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest ./tests",
+    "bench": "exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2cones/containers-js.git"
+  },
+  "keywords": [],
+  "license": "ISC"
+}
